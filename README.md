@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution URL here](https://your-solution-url.com)
-- Live URL: [Solution URL here](https://your-solution-url.com)
+- Solution URL: [Solution URL here](https://www.frontendmentor.io/solutions/product-preview-card-component-HkcKs4DLBd)
+- Live URL: [Solution URL here](https://aesthetic-tiramisu-42cc46.netlify.app/)
 
 ## My process
 
